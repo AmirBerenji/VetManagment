@@ -18,7 +18,7 @@ namespace PetManageApi.Controllers
         protected readonly string _petImage;
         protected readonly string _petShopImage;
 
-        public BaseApiController(UserManager<AppUser> userManager, PetManageDbContext context)
+        public BaseApiController( PetManageDbContext context)
         {
             _context = context;
             _petImage = Path.GetFullPath(@"..\API\wwwroot\Images\PetImage");

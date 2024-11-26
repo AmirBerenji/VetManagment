@@ -12,7 +12,9 @@ namespace PetManageApi.Repository
 
         public UserInformation Add(UserInformation entity)
         {
-            throw new NotImplementedException();
+            _context.UsersInfo.Add(entity);
+            _context.SaveChanges();
+            return entity;
         }
 
         public void Edit(UserInformation entity)
