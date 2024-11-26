@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "HHfY9B5SeiFrTpGKSiZUM/Wkum5JqB50l3RDswg5Dgo=",
+  "Source": "PetManageApi",
+  "BasePath": "_content/PetManageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PetManageApi\\wwwroot",
+      "Source": "PetManageApi",
+      "ContentRoot": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\wwwroot\\",
+      "BasePath": "_content/PetManageApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PetManageApi.Controllers.AuthController",
+    "Method": "SignIn",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetManageApi.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetManageApi.Controllers.AuthController",
+    "Method": "GetUserInfo",
+    "RelativePath": "api/Auth/GetInformation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
