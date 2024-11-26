@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "E:\\Programming\\C\\PetVet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\services\\clinicmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\services\\clinicmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\services\\branchmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\services\\branchmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\dtos\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\dtos\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\repository\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\repository\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\repository\\clinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\repository\\clinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\repository\\userinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\repository\\userinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\interface\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\interface\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\dtos\\clinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\dtos\\clinicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\entities\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\entities\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\services\\userinformationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\services\\userinformationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\data\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\data\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +71,8 @@
       "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\data\\petmanagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\entities\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\entities\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\services\\usermanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\services\\usermanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\services\\userinformationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\services\\userinformationmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\repository\\userinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\repository\\userinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\interface\\iuserinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\dtos\\userinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\dtos\\userinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|e:\\programming\\c\\petvet\\src\\petmanageapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A55DA5-A68D-41B5-A5CE-BC0B6413B93A}|src\\PetManageApi\\PetManageApi.csproj|solutionrelative:src\\petmanageapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +90,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BranchDTO.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\DTOs\\BranchDTO.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\DTOs\\BranchDTO.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\DTOs\\BranchDTO.cs",
+              "RelativeToolTip": "src\\PetManageApi\\DTOs\\BranchDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:43:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchManagment.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\BranchManagment.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Services\\BranchManagment.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\BranchManagment.cs*",
+              "RelativeToolTip": "src\\PetManageApi\\Services\\BranchManagment.cs*",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:41:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Repository\\BranchRepository.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\BranchRepository.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Repository\\BranchRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:22:12.34Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -74,7 +145,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClinicRepository.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\ClinicRepository.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Repository\\ClinicRepository.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\ClinicRepository.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Repository\\ClinicRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:32:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Entities\\Branch.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Branch.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Entities\\Branch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:25:47.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClinicController.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\ClinicController.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Controllers\\ClinicController.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\ClinicController.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Controllers\\ClinicController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:48:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClinicManagment.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\ClinicManagment.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Services\\ClinicManagment.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\ClinicManagment.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Services\\ClinicManagment.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:35:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBranchRepository.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Interface\\IBranchRepository.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Interface\\IBranchRepository.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Interface\\IBranchRepository.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Interface\\IBranchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:17:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA6wDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:14:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Clinic.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Entities\\Clinic.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Clinic.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Entities\\Clinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:24:16.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DataInitializer.cs",
               "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Data\\DataInitializer.cs",
               "RelativeDocumentMoniker": "src\\PetManageApi\\Data\\DataInitializer.cs",
@@ -87,20 +249,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Program.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Program.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAsAAAA",
+              "DocumentIndex": 7,
+              "Title": "UserInformationRepository.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\UserInformationRepository.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Repository\\UserInformationRepository.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\UserInformationRepository.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Repository\\UserInformationRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:38:07.2Z",
+              "WhenOpened": "2024-11-25T19:35:38.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "ClinicDTO.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\DTOs\\ClinicDTO.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\DTOs\\ClinicDTO.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\DTOs\\ClinicDTO.cs",
+              "RelativeToolTip": "src\\PetManageApi\\DTOs\\ClinicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:37:37.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:17:46.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "PetManageDbContext.cs",
               "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Data\\PetManageDbContext.cs",
               "RelativeDocumentMoniker": "src\\PetManageApi\\Data\\PetManageDbContext.cs",
@@ -112,43 +300,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Branch.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Entities\\Branch.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Branch.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Entities\\Branch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "DocumentIndex": 13,
+              "Title": "UserInformationManagment.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\UserInformationManagment.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Services\\UserInformationManagment.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\UserInformationManagment.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Services\\UserInformationManagment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:25:47.804Z"
+              "WhenOpened": "2024-11-25T19:42:36.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Clinic.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Clinic.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Entities\\Clinic.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Entities\\Clinic.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Entities\\Clinic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PetManageApi\\Program.cs",
+              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Program.cs",
+              "RelativeToolTip": "src\\PetManageApi\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:24:16.827Z"
+              "WhenOpened": "2024-11-26T06:38:07.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserInformationRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\UserInformationRepository.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Repository\\UserInformationRepository.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Repository\\UserInformationRepository.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Repository\\UserInformationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:35:38.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "IUserInformationRepository.cs",
               "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Interface\\IUserInformationRepository.cs",
               "RelativeDocumentMoniker": "src\\PetManageApi\\Interface\\IUserInformationRepository.cs",
@@ -160,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "UserInformationDTO.cs",
               "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\DTOs\\UserInformationDTO.cs",
               "RelativeDocumentMoniker": "src\\PetManageApi\\DTOs\\UserInformationDTO.cs",
@@ -172,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "UserManagment.cs",
               "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\UserManagment.cs",
               "RelativeDocumentMoniker": "src\\PetManageApi\\Services\\UserManagment.cs",
@@ -181,43 +358,6 @@
               "ViewState": "AQIAABEAAAAAAAAAAAAjwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T19:24:41.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:17:46.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserInformationManagment.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\UserInformationManagment.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Services\\UserInformationManagment.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Services\\UserInformationManagment.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Services\\UserInformationManagment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:42:36.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "src\\PetManageApi\\Controllers\\BaseApiController.cs",
-              "ToolTip": "E:\\Programming\\C\\PetVet\\src\\PetManageApi\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "src\\PetManageApi\\Controllers\\BaseApiController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwC8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:14:34.255Z",
-              "EditorCaption": ""
             }
           ]
         }

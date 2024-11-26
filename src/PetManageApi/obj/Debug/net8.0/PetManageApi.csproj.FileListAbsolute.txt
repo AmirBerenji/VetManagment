@@ -108,3 +108,4 @@ E:\Programming\C\PetVet\src\PetManageApi\bin\Debug\net8.0\Microsoft.IdentityMode
 E:\Programming\C\PetVet\src\PetManageApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 E:\Programming\C\PetVet\src\PetManageApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Programming\C\PetVet\src\PetManageApi\bin\Debug\net8.0\PetManageApi.staticwebassets.runtime.json
+E:\Programming\C\PetVet\src\PetManageApi\obj\Debug\net8.0\PetManageApi.sourcelink.json
