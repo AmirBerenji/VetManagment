@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using PetManageApi.Data;
@@ -11,9 +12,11 @@ using PetManageApi.Data;
 namespace PetManageApi.Data.Migrations
 {
     [DbContext(typeof(PetManageDbContext))]
-    partial class PetManageDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241127122920_Add personal table")]
+    partial class Addpersonaltable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

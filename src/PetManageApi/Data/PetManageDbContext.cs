@@ -20,4 +20,8 @@ public class PetManageDbContext : IdentityDbContext<AppUser>
     public DbSet<UserInformation> UsersInfo { get; set; }
     public DbSet<Clinic> Clinics { get; set; }
     public DbSet<Branch> Branches { get; set; }
+    public DbSet<Personal> Personals { get; set; }
+    public DbSet<PersonalKind> PersonalKinds { get; set; }
+    public DbSet<PersonalBranch> PersonalBranches { get; set; }
+
 }
